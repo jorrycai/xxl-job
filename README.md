@@ -46,9 +46,14 @@ XXL-JOB is an open source and free project, with its ongoing development made po
 XXL-JOB 是一个开源且免费项目，其正在进行的开发完全得益于支持者的支持。开源不易，[前往赞助项目开发](https://www.xuxueli.com/page/donate.html )
 
 <!-- supporter start -->
-<h5 style="color: silver;" >金牌赞助方</h5>
+<h3 style="color: #E6BE8A;" >金牌赞助方</h3>
+
+<a href="https://www.aliyun.com/product/aliware/mse?utm_content=g_10004013" title="jetbrains" target="_blank" >
+    <img width="150px" src="http://www.xuxueli.com/page/static/images/logo_aliyun2.png" >
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/?from=xuxueli.com" title="jetbrains" target="_blank" >
-    <img width="55px" src="http://www.xuxueli.com/page/static/images/logo_intellij.jpeg" >
+    <img width="60px" src="http://www.xuxueli.com/page/static/images/logo_intellij.jpeg" >
 </a>
 <!-- supporter end -->
 
@@ -816,6 +821,18 @@ XXL-JOB 是一个开源且免费项目，其正在进行的开发完全得益于
     - 675、上海热风时尚管理集团【热风】
     - 676、HashKey Exchange
     - 677、傲基（深圳）跨境商务股份有限公司
+    - 678、青岛文达通科技股份有限公司
+    - 679、杭州普罗云科技有限公司
+    - 680、浙江云鹭科技有限公司
+    - 681、中山市芯宏柿网络科技有限公司
+    - 682、深圳市家家顺物联科技
+    - 683、重庆斑西科技有限公司
+    - 684、福建省泰古信息技术有限公司
+    - 685、贵阳永青仪电科技有限公司
+    - 686、广州博依特智能信息科技有限公司
+    - 687、河南宠呦呦信息技术有限公司
+    - 688、陕西星邑空间技术有限公司
+    - 689、广东西欧克实业有限公司
     - ……
 
 > 更多接入的公司，欢迎在 [登记地址](https://github.com/xuxueli/xxl-job/issues/1 ) 登记，登记仅仅为了产品推广。
